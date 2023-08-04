@@ -1,6 +1,6 @@
 # Página inicial do TechBlog
 <h2>Sobre o projeto</h2>
-<p>Esse projeto foi desenvolvido como uma atividade proposta pelO curso da universidade onde estudo atualmente. A ideia era os alunos observarem a página pronta e tentar replicar da forma mais fiel possível. Com isso, foi possível praticar e aprimorar minhas habilidades em desenvolvimento web, usando tecnologias HTML e CSS.</p>
+<p>Esse projeto foi desenvolvido como uma atividade proposta pelo curso da universidade onde estudo atualmente. Os alunos deveriam observar a página final e tentar replicar da forma mais fiel possível. Com isso, foi possível praticar e aprimorar minhas habilidades em desenvolvimento web, usando tecnologias HTML e CSS.</p>
 <p>Neste repositório você encontrará os arquivos necessários para replicar a página inicial do fictício TechBlog, incluindo o HTML estrutural e os estilos CSS.</p>
 
  <h2>Funcionalidades Implementadas</h2>
@@ -11,7 +11,7 @@
 
   <h2>Instruções de Uso</h2>
   <ol>
-    <li><a href="https://joaolucassousa.github.io/Microsoft-Homepage-clone/">👆 Clique aqui</a> para visualizar a página via GitHub Pages.</li>
+    <li><a href="https://joaolucassousa.github.io/Site-TechBlog/">👆 Clique aqui</a> para visualizar a página via GitHub Pages.</li>
     <h3>Ou</h3>
     <li>Faça o clone deste repositório em sua máquina local.</li>
     <li>Abra o arquivo <code>index.html</code> em seu navegador preferido.</li>
